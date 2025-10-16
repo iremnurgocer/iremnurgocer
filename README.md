@@ -33,19 +33,3 @@
 </p>
 
 ---
-
-### 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iremnurgocer&theme=tokyonight&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
----
-
-### 🐍 Contribution Activity
-<p align="center">
-  <img src="https://github.com/iremnurgocer/iremnurgocer/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-<p align="center">⭐ “Secure. Scalable. Smart.”</p>
