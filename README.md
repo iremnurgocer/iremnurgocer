@@ -10,7 +10,6 @@
 
 ---
 
-### 💡 About Me
  I'm a **software developer** with expertise in **AI development**, **backend systems**, and **secure software design**.  
  I specialize in creating **scalable and reliable applications**, managing **databases**, and implementing **DevOps pipelines** for efficient CI/CD workflows.  
  Skilled in **Linux & Windows server management**, **containerization**, and **cloud deployment (AWS)**.  
@@ -19,14 +18,12 @@
 
 ---
 
-### 🧰 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,php,laravel,java,cs,dotnet,nodejs,typescript,javascript,mysql,oracle,mongodb,redis,aws,docker,jenkins,linux,git" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iremnurgocer&show_icons=true&theme=tokyonight" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iremnurgocer&theme=tokyonight" alt="GitHub streak" />
