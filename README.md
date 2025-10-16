@@ -11,11 +11,11 @@
 ---
 
 ### 💡 About Me
-💻 I'm a **software developer** with expertise in **AI development**, **backend systems**, and **secure software design**.  
-🧠 I specialize in creating **scalable and reliable applications**, managing **databases**, and implementing **DevOps pipelines** for efficient CI/CD workflows.  
-⚙️ Skilled in **Linux & Windows server management**, **containerization**, and **cloud deployment (AWS)**.  
-🔐 Passionate about **application security**, including **penetration testing**, **vulnerability analysis**, and **secure coding practices**.  
-🚀 Always learning, always building — combining strong analytical thinking with creative engineering.
+ I'm a **software developer** with expertise in **AI development**, **backend systems**, and **secure software design**.  
+ I specialize in creating **scalable and reliable applications**, managing **databases**, and implementing **DevOps pipelines** for efficient CI/CD workflows.  
+ Skilled in **Linux & Windows server management**, **containerization**, and **cloud deployment (AWS)**.  
+ Passionate about **application security**, including **penetration testing**, **vulnerability analysis**, and **secure coding practices**.  
+ Always learning, always building — combining strong analytical thinking with creative engineering.
 
 ---
 
