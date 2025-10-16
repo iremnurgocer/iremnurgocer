@@ -1,16 +1,51 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm İrem Nur Göçer</h1>
+<h3 align="center">Software Developer | AI & Backend Engineer | DevOps & Security Enthusiast</h3>
 
-<!--
-**iremnurgocer/iremnurgocer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="mailto:iremnurgocer99@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/iremnurgocer"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white" /></a>
+  <a href="https://github.com/iremnurgocer"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white" /></a>
+  <a href="https://iremnurgocer.github.io"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=About.me&logoColor=white" /></a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 About Me
+💻 I'm a **software developer** with expertise in **AI development**, **backend systems**, and **secure software design**.  
+🧠 I specialize in creating **scalable and reliable applications**, managing **databases**, and implementing **DevOps pipelines** for efficient CI/CD workflows.  
+⚙️ Skilled in **Linux & Windows server management**, **containerization**, and **cloud deployment (AWS)**.  
+🔐 Passionate about **application security**, including **penetration testing**, **vulnerability analysis**, and **secure coding practices**.  
+🚀 Always learning, always building — combining strong analytical thinking with creative engineering.
+
+---
+
+### 🧰 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,laravel,java,cs,dotnet,nodejs,typescript,javascript,mysql,oracle,mongodb,redis,aws,docker,jenkins,linux,git" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iremnurgocer&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iremnurgocer&theme=tokyonight" alt="GitHub streak" />
+</p>
+
+---
+
+### 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iremnurgocer&theme=tokyonight&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 🐍 Contribution Activity
+<p align="center">
+  <img src="https://github.com/iremnurgocer/iremnurgocer/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+<p align="center">⭐ “Secure. Scalable. Smart.”</p>
