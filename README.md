@@ -26,7 +26,19 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iremnurgocer&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+
+---
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iremnurgocer&theme=tokyonight" alt="GitHub streak" />
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iremnurgocer&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
+
+---
+
