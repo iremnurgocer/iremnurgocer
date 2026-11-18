@@ -50,6 +50,12 @@ unknowns        ->  stay "unknown"; unmeasured stays "unmeasured"
   </picture>
 </p>
 
+**01** define the costly mistake with the business team · **02** map the sources,
+the permissions and what a "right answer" rests on · **03** rules and SQL in code,
+the model only where it adds value · **04** golden set, UAT and regression runs ready
+before launch · **05** Azure serverless, IaC, managed identity, observability, handover ·
+**06** feedback, review queues and human-approved examples
+
 Model selection is usually the *last* conversation. First comes the problem, where the
 data comes from, and how we will know it worked.
 
