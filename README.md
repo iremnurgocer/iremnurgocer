@@ -32,13 +32,12 @@ Because I came from backend engineering, I treat systems with an LLM in them exa
 like any other software: **they need tests, monitoring and limited permissions.**
 
 ```text
-rules and SQL        →  deterministic code, never the model
-the model            →  extraction, judgement, presentation — always auditable
-every output         →  bound to a verbatim quote or a source id, or it gets dropped
-access control       →  enforced in the retrieval filter and the SQL layer, fail-closed
-"we didn't measure"  →  written down as exactly that
+rules and SQL   ->  deterministic code, never the model
+the model       ->  extraction and judgement, always auditable
+every output    ->  bound to a quote or a source id, or dropped
+access control  ->  in the retrieval filter and the SQL layer
+unknowns        ->  stay "unknown"; unmeasured stays "unmeasured"
 ```
-
 ---
 
 ### How I work
