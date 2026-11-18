@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="272" viewBox="0 0 1000 272" role="img" aria-label="Irem Nur Yilmaz — Senior AI Engineer. Enterprise RAG, agentic workflows, Text-to-SQL, document AI.">
+<defs>
+<linearGradient id="bgg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#eeede6"/><stop offset="1" stop-color="#f5f4ef"/></linearGradient>
+<linearGradient id="ink" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#4351e8"/><stop offset=".55" stop-color="#0b9a82"/><stop offset="1" stop-color="#c25c20"/></linearGradient>
+<radialGradient id="halo" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#4351e8" stop-opacity=".12"/><stop offset="1" stop-color="#4351e8" stop-opacity="0"/></radialGradient>
+<linearGradient id="fade" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#eeede6" stop-opacity="1"/><stop offset=".62" stop-color="#eeede6" stop-opacity=".95"/><stop offset="1" stop-color="#eeede6" stop-opacity="0"/></linearGradient>
+<clipPath id="card"><rect x="1" y="1" width="998" height="270" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#card)">
+<rect width="1000" height="272" fill="url(#bgg)"/>
+<ellipse cx="800" cy="130" rx="330" ry="210" fill="url(#halo)"/>
+<path d="M400 0V272M440 0V272M480 0V272M520 0V272M560 0V272M600 0V272M640 0V272M680 0V272M720 0V272M760 0V272M800 0V272M840 0V272M880 0V272M920 0V272M960 0V272M400 0H1000M400 40H1000M400 80H1000M400 120H1000M400 160H1000M400 200H1000M400 240H1000" stroke="#e2e0d6" stroke-width="1" fill="none" opacity=".9"/>
+<path d="M688 48L676 112" stroke="#7d87c4" stroke-width="1.2" fill="none" stroke-opacity=".55"><animate attributeName="stroke-opacity" values=".35;.8;.35" dur="6s" begin="0.00s" repeatCount="indefinite"/></path>
+<path d="M676 112L698 178" stroke="#7d87c4" stroke-width="1.2" fill="none" stroke-opacity=".55"><animate attributeName="stroke-opacity" values=".35;.8;.35" dur="6s" begin="0.31s" repeatCount="indefinite"/></path>
+<path d="M688 48L766 80" stroke="#7d87c4" stroke-width="1.2" fill="none" stroke-opacity=".55"><animate attributeName="stroke-opacity" values=".35;.8;.35" dur="6s" begin="0.62s" repeatCount="indefinite"/></path>
+<path d="M676 112L758 146" stroke="#7d87c4" stroke-width="1.2" fill="none" stroke-opacity=".55"><animate attributeName="stroke-opacity" values=".35;.8;.35" dur="6s" begin="0.93s" repeatCount="indefinite"/></path>
+<path d="M698 178L758 146" stroke="#7d87c4" stroke-width="1.2" fill="none" stroke-opacity=".55"><animate attributeName="stroke-opacity" values=".35;.8;.35" dur="6s" begin="1.24s" repeatCount="indefinite"/></path>
+<path d="M684 228L780 210" stroke="#7d87c4" stroke-width="1.2" fill="none" stroke-opacity=".55"><animate attributeName="stroke-opacity" values=".35;.8;.35" dur="6s" begin="1.55s" repeatCount="indefinite"/></path>
+<path d="M698 178L780 210" stroke="#7d87c4" stroke-width="1.2" fill="none" stroke-opacity=".55"><animate attributeName="stroke-opacity" values=".35;.8;.35" dur="6s" begin="1.86s" repeatCount="indefinite"/></path>
+<path d="M766 80L758 146" stroke="#7d87c4" stroke-width="1.2" fill="none" stroke-opacity=".55"><animate attributeName="stroke-opacity" values=".35;.8;.35" dur="6s" begin="2.17s" repeatCount="indefinite"/></path>
+<path d="M758 146L780 210" stroke="#7d87c4" stroke-width="1.2" fill="none" stroke-opacity=".55"><animate attributeName="stroke-opacity" values=".35;.8;.35" dur="6s" begin="2.48s" repeatCount="indefinite"/></path>
+<path d="M766 80L846 54" stroke="#7d87c4" stroke-width="1.2" fill="none" stroke-opacity=".55"><animate attributeName="stroke-opacity" values=".35;.8;.35" dur="6s" begin="2.79s" repeatCount="indefinite"/></path>
+<path d="M758 146L838 120" stroke="#7d87c4" stroke-width="1.2" fill="none" stroke-opacity=".55"><animate attributeName="stroke-opacity" values=".35;.8;.35" dur="6s" begin="3.10s" repeatCount="indefinite"/></path>
+<path d="M780 210L858 184" stroke="#7d87c4" stroke-width="1.2" fill="none" stroke-opacity=".55"><animate attributeName="stroke-opacity" values=".35;.8;.35" dur="6s" begin="3.41s" repeatCount="indefinite"/></path>
+<path d="M838 120L858 184" stroke="#7d87c4" stroke-width="1.2" fill="none" stroke-opacity=".55"><animate attributeName="stroke-opacity" values=".35;.8;.35" dur="6s" begin="3.72s" repeatCount="indefinite"/></path>
+<path d="M846 54L838 120" stroke="#7d87c4" stroke-width="1.2" fill="none" stroke-opacity=".55"><animate attributeName="stroke-opacity" values=".35;.8;.35" dur="6s" begin="4.03s" repeatCount="indefinite"/></path>
+<path d="M846 54L918 92" stroke="#7d87c4" stroke-width="1.2" fill="none" stroke-opacity=".55"><animate attributeName="stroke-opacity" values=".35;.8;.35" dur="6s" begin="4.34s" repeatCount="indefinite"/></path>
+<path d="M838 120L918 92" stroke="#7d87c4" stroke-width="1.2" fill="none" stroke-opacity=".55"><animate attributeName="stroke-opacity" values=".35;.8;.35" dur="6s" begin="4.65s" repeatCount="indefinite"/></path>
+<path d="M858 184L926 158" stroke="#7d87c4" stroke-width="1.2" fill="none" stroke-opacity=".55"><animate attributeName="stroke-opacity" values=".35;.8;.35" dur="6s" begin="4.96s" repeatCount="indefinite"/></path>
+<path d="M918 92L926 158" stroke="#7d87c4" stroke-width="1.2" fill="none" stroke-opacity=".55"><animate attributeName="stroke-opacity" values=".35;.8;.35" dur="6s" begin="5.27s" repeatCount="indefinite"/></path>
+<path id="de0" d="M622 70C670 70 628 48 688 48" stroke="#7d87c4" stroke-width="1.2" fill="none" stroke-opacity=".5"/>
+<path id="de1" d="M622 70C670 70 616 112 676 112" stroke="#7d87c4" stroke-width="1.2" fill="none" stroke-opacity=".5"/>
+<path id="de2" d="M618 132C666 132 616 112 676 112" stroke="#7d87c4" stroke-width="1.2" fill="none" stroke-opacity=".5"/>
+<path id="de3" d="M618 132C666 132 638 178 698 178" stroke="#7d87c4" stroke-width="1.2" fill="none" stroke-opacity=".5"/>
+<path id="de4" d="M630 196C678 196 638 178 698 178" stroke="#7d87c4" stroke-width="1.2" fill="none" stroke-opacity=".5"/>
+<path id="de5" d="M630 196C678 196 624 228 684 228" stroke="#7d87c4" stroke-width="1.2" fill="none" stroke-opacity=".5"/>
+<g>
+<rect x="578" y="44" width="44" height="52" rx="6" fill="#ffffff" stroke="#cfcdc2"/>
+<rect x="586" y="54" width="26" height="2.6" rx="1.3" fill="#747a86" opacity=".7"/>
+<rect x="586" y="63" width="18" height="2.6" rx="1.3" fill="#747a86" opacity=".7"/>
+<rect x="586" y="72" width="26" height="2.6" rx="1.3" fill="#747a86" opacity=".7"/>
+<rect x="586" y="81" width="18" height="2.6" rx="1.3" fill="#747a86" opacity=".7"/>
+</g>
+<g>
+<rect x="574" y="106" width="44" height="52" rx="6" fill="#ffffff" stroke="#cfcdc2"/>
+<rect x="582" y="116" width="26" height="2.6" rx="1.3" fill="#747a86" opacity=".7"/>
+<rect x="582" y="125" width="18" height="2.6" rx="1.3" fill="#747a86" opacity=".7"/>
+<rect x="582" y="134" width="26" height="2.6" rx="1.3" fill="#747a86" opacity=".7"/>
+<rect x="582" y="143" width="18" height="2.6" rx="1.3" fill="#747a86" opacity=".7"/>
+</g>
+<g>
+<rect x="586" y="170" width="44" height="52" rx="6" fill="#ffffff" stroke="#cfcdc2"/>
+<rect x="594" y="180" width="26" height="2.6" rx="1.3" fill="#747a86" opacity=".7"/>
+<rect x="594" y="189" width="18" height="2.6" rx="1.3" fill="#747a86" opacity=".7"/>
+<rect x="594" y="198" width="26" height="2.6" rx="1.3" fill="#747a86" opacity=".7"/>
+<rect x="594" y="207" width="18" height="2.6" rx="1.3" fill="#747a86" opacity=".7"/>
+</g>
+<g>
+<circle cx="688" cy="48" r="4.0" fill="#4351e8"><animate attributeName="r" values="4.0;5.40;4.0" dur="5s" begin="0.00s" repeatCount="indefinite"/></circle>
+</g>
+<g>
+<circle cx="676" cy="112" r="4.0" fill="#0b9a82"><animate attributeName="r" values="4.0;5.40;4.0" dur="5s" begin="0.33s" repeatCount="indefinite"/></circle>
+</g>
+<g>
+<circle cx="698" cy="178" r="4.0" fill="#c25c20"><animate attributeName="r" values="4.0;5.40;4.0" dur="5s" begin="0.66s" repeatCount="indefinite"/></circle>
+</g>
+<g>
+<circle cx="684" cy="228" r="4.0" fill="#4351e8"><animate attributeName="r" values="4.0;5.40;4.0" dur="5s" begin="0.99s" repeatCount="indefinite"/></circle>
+</g>
+<g>
+<circle cx="766" cy="80" r="12.0" fill="none" stroke="#0b9a82" stroke-width="1" opacity=".35"><animate attributeName="r" values="10.0;18.0;10.0" dur="4.5s" begin="1.6s" repeatCount="indefinite"/><animate attributeName="opacity" values=".4;0;.4" dur="4.5s" begin="1.6s" repeatCount="indefinite"/></circle>
+<circle cx="766" cy="80" r="6.0" fill="#0b9a82"><animate attributeName="r" values="6.0;8.10;6.0" dur="5s" begin="1.32s" repeatCount="indefinite"/></circle>
+</g>
+<g>
+<circle cx="758" cy="146" r="4.0" fill="#c25c20"><animate attributeName="r" values="4.0;5.40;4.0" dur="5s" begin="1.65s" repeatCount="indefinite"/></circle>
+</g>
+<g>
+<circle cx="780" cy="210" r="4.0" fill="#4351e8"><animate attributeName="r" values="4.0;5.40;4.0" dur="5s" begin="1.98s" repeatCount="indefinite"/></circle>
+</g>
+<g>
+<circle cx="846" cy="54" r="12.0" fill="none" stroke="#0b9a82" stroke-width="1" opacity=".35"><animate attributeName="r" values="10.0;18.0;10.0" dur="4.5s" begin="2.8s" repeatCount="indefinite"/><animate attributeName="opacity" values=".4;0;.4" dur="4.5s" begin="2.8s" repeatCount="indefinite"/></circle>
+<circle cx="846" cy="54" r="6.0" fill="#0b9a82"><animate attributeName="r" values="6.0;8.10;6.0" dur="5s" begin="2.31s" repeatCount="indefinite"/></circle>
+</g>
+<g>
+<circle cx="838" cy="120" r="4.0" fill="#c25c20"><animate attributeName="r" values="4.0;5.40;4.0" dur="5s" begin="2.64s" repeatCount="indefinite"/></circle>
+</g>
+<g>
+<circle cx="858" cy="184" r="4.0" fill="#4351e8"><animate attributeName="r" values="4.0;5.40;4.0" dur="5s" begin="2.97s" repeatCount="indefinite"/></circle>
+</g>
+<g>
+<circle cx="918" cy="92" r="12.0" fill="none" stroke="#0b9a82" stroke-width="1" opacity=".35"><animate attributeName="r" values="10.0;18.0;10.0" dur="4.5s" begin="4.0s" repeatCount="indefinite"/><animate attributeName="opacity" values=".4;0;.4" dur="4.5s" begin="4.0s" repeatCount="indefinite"/></circle>
+<circle cx="918" cy="92" r="6.0" fill="#0b9a82"><animate attributeName="r" values="6.0;8.10;6.0" dur="5s" begin="3.30s" repeatCount="indefinite"/></circle>
+</g>
+<g>
+<circle cx="926" cy="158" r="4.0" fill="#c25c20"><animate attributeName="r" values="4.0;5.40;4.0" dur="5s" begin="3.63s" repeatCount="indefinite"/></circle>
+</g>
+<circle r="2.4" fill="#0b9a82" opacity="0"><animate attributeName="opacity" values="0;1;1;0" dur="2.4s" begin="1.20s" repeatCount="indefinite"/><animateMotion path="M688 48L676 112" dur="2.4s" begin="1.20s" repeatCount="indefinite"/></circle>
+<circle r="2.4" fill="#0b9a82" opacity="0"><animate attributeName="opacity" values="0;1;1;0" dur="2.4s" begin="2.30s" repeatCount="indefinite"/><animateMotion path="M676 112L758 146" dur="2.4s" begin="2.30s" repeatCount="indefinite"/></circle>
+<circle r="2.4" fill="#0b9a82" opacity="0"><animate attributeName="opacity" values="0;1;1;0" dur="2.4s" begin="3.40s" repeatCount="indefinite"/><animateMotion path="M766 80L846 54" dur="2.4s" begin="3.40s" repeatCount="indefinite"/></circle>
+<circle r="2.4" fill="#0b9a82" opacity="0"><animate attributeName="opacity" values="0;1;1;0" dur="2.4s" begin="1.80s" repeatCount="indefinite"/><animateMotion path="M838 120L858 184" dur="2.4s" begin="1.80s" repeatCount="indefinite"/></circle>
+<circle r="2.4" fill="#0b9a82" opacity="0"><animate attributeName="opacity" values="0;1;1;0" dur="2.4s" begin="2.90s" repeatCount="indefinite"/><animateMotion path="M858 184L926 158" dur="2.4s" begin="2.90s" repeatCount="indefinite"/></circle>
+<circle r="2.4" fill="#0b9a82" opacity="0"><animate attributeName="opacity" values="0;1;1;0" dur="2.4s" begin="4.20s" repeatCount="indefinite"/><animateMotion path="M918 92L926 158" dur="2.4s" begin="4.20s" repeatCount="indefinite"/></circle>
+<rect x="0" y="0" width="596" height="272" fill="url(#fade)"/>
+</g>
+<text x="48" y="78" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="15" font-weight="600" letter-spacing="2.6" fill="#4351e8">SENIOR AI ENGINEER</text>
+<text x="48" y="136" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="46" font-weight="700" fill="#0d0f14">İrem Nur Yılmaz</text>
+<rect x="48" y="158" width="92" height="3" rx="1.5" fill="url(#ink)"/>
+<text x="48" y="192" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="16" fill="#555b68">I take enterprise AI out of the demo and into production.</text>
+<g><rect x="48" y="212" width="108" height="26" rx="13" fill="none" stroke="#cfcdc2"/><text x="102" y="229" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#747a86" text-anchor="middle">Enterprise RAG</text></g>
+<g><rect x="165" y="212" width="80" height="26" rx="13" fill="none" stroke="#cfcdc2"/><text x="205" y="229" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#747a86" text-anchor="middle">Agentic AI</text></g>
+<g><rect x="254" y="212" width="87" height="26" rx="13" fill="none" stroke="#cfcdc2"/><text x="297" y="229" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#747a86" text-anchor="middle">Text-to-SQL</text></g>
+<g><rect x="350" y="212" width="87" height="26" rx="13" fill="none" stroke="#cfcdc2"/><text x="393" y="229" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#747a86" text-anchor="middle">Document AI</text></g>
+<rect x="1" y="1" width="998" height="270" rx="18" fill="none" stroke="#cfcdc2"/>
+</svg>
