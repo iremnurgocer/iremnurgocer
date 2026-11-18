@@ -81,6 +81,9 @@ results:
 
 ### Public projects
 
+Most of what I build day to day lives in private company repositories.
+These are the ones I can share:
+
 | Project | What it is |
 |---|---|
 | **[ChatCore.AI](https://github.com/iremnurgocer/ChatCore.AI)** `Python` | A RAG assistant for company data: FAISS + BM25 hybrid retrieval with optional cross-encoder re-ranking, persistent chats in PostgreSQL, role-based access, and five swappable providers (Gemini, OpenAI, Azure OpenAI, Ollama, HuggingFace). FastAPI + Streamlit. |
@@ -118,17 +121,6 @@ Long-form notes on the things I keep running into, published on the portfolio in
 | **Data** | PostgreSQL · MSSQL · Oracle · MongoDB · Redis · `sqlglot` AST validation · row-level security |
 | **Platform** | Azure Functions & serverless · Bicep / IaC · managed identity · Docker · CI/CD · OpenTelemetry |
 | **Also** | application security, penetration testing and secure coding — the habits I bring to AI systems |
-
----
-
-### GitHub
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=iremnurgocer&show_icons=true&hide_border=true&bg_color=0b0d12&title_color=9aa8ff&icon_color=5ee3c9&text_color=9aa0ae&ring_color=5ee3c9">
-    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=iremnurgocer&show_icons=true&hide_border=true&bg_color=f5f4ef&title_color=4351e8&icon_color=087a67&text_color=555b68&ring_color=4351e8">
-  </picture>
-</p>
 
 ---
 
