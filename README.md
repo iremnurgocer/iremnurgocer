@@ -87,6 +87,7 @@ These are the ones I can share:
 
 | Project | What it is |
 |---|---|
+| **[Üretimde LLM Mühendisliği](https://github.com/iremnurgocer/uretimde-llm-muhendisligi)** `Türkçe` `Python` | A handbook on taking AI systems over Turkish documents from demo to production — every chapter ships runnable, dependency-free code and a measurement. Starts with why `str.lower()` is wrong in Turkish and what that quietly costs you in retrieval (recall@3: 58% → 100%). |
 | **[ChatCore.AI](https://github.com/iremnurgocer/ChatCore.AI)** `Python` | A RAG assistant for company data: FAISS + BM25 hybrid retrieval with optional cross-encoder re-ranking, persistent chats in PostgreSQL, role-based access, and five swappable providers (Gemini, OpenAI, Azure OpenAI, Ollama, HuggingFace). FastAPI + Streamlit. |
 | **[ai-api-gateway](https://github.com/iremnurgocer/ai-api-gateway)** `Python` `Node.js` | An API gateway that scores every incoming request for risk in real time with an Isolation Forest model and blocks the suspicious ones. JWT auth, Redis rate limiting, automatic retraining from traffic logs, Prometheus + Grafana. |
 | **[borsa-anomali](https://github.com/iremnurgocer/borsa-anomali)** `Python` | Anomaly detection on market data — pulls candles from 100+ exchanges through `ccxt` and flags abnormal price moves with three different ML methods. |
