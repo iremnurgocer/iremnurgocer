@@ -23,7 +23,8 @@ integrations, legacy modernisation, clinical decision support and intelligent tr
 systems.
 
 Today I build **enterprise AI systems that actually ship**: retrieval-augmented
-generation, agentic workflows, Text-to-SQL and document intelligence. On a typical
+generation, agentic workflows, document intelligence and the evaluation that keeps
+them honest. On a typical
 project I start by defining the problem with the business team, then own the
 architecture, the implementation, the evaluation harness, the Azure deployment and the
 handover to IT.
@@ -32,10 +33,10 @@ Because I came from backend engineering, I treat systems with an LLM in them exa
 like any other software: **they need tests, monitoring and limited permissions.**
 
 ```text
-rules and SQL   ->  deterministic code, never the model
+rules and maths ->  deterministic code, never the model
 the model       ->  extraction and judgement, always auditable
 every output    ->  bound to a quote or a source id, or dropped
-access control  ->  in the retrieval filter and the SQL layer
+access control  ->  in the retrieval filter, fail-closed by default
 unknowns        ->  stay "unknown"; unmeasured stays "unmeasured"
 ```
 ---
@@ -71,9 +72,9 @@ results:
 |---|---|---|---|
 | 🧾 | **[Spec & pre-qualification analysis agent](https://iremnurgocer.github.io/work/spec-analysis-agent.html?lang=en)** | Turns long tender specifications into an executive brief, pass/fail criteria and a scoring table — every item bound back to the clause it came from. 94–100% recall against the team's manual summaries, **zero fabricated items** across every evaluation run. | Python · Azure Functions · Azure OpenAI · Bicep |
 | 🔍 | **[Decision archive assistant](https://iremnurgocer.github.io/work/decision-archive-assistant.html?lang=en)** | Natural-language search over a large decision archive. The expensive mistake here is *missing* a decision, so the whole system is designed for recall. 99% of user acceptance tests passed. | Azure AI Search · Azure OpenAI · Teams · OpenTelemetry |
-| 📊 | **[Enterprise analytics copilot](https://iremnurgocer.github.io/work/analytics-copilot.html?lang=en)** | Secure Text-to-SQL over operational databases in Turkish — with row-level isolation, an independent generator and validator, and a repair loop for every rejected query. | FastAPI · sqlglot · ASP.NET Core · React |
+| 🌍 | **[Document translation & terminology](https://iremnurgocer.github.io/work/document-translation.html?lang=en)** | Translation for corporate documents that keeps layout and house terminology intact, with a reviewer in the loop where the text carries legal weight. | Python · Azure OpenAI · Azure Functions |
 
-→ [Three more case studies](https://iremnurgocer.github.io/?lang=en#work): document translation & terminology, supplier extraction, tender intelligence.
+→ [More case studies](https://iremnurgocer.github.io/?lang=en#work): supplier extraction and tender intelligence.
 
 **14** enterprise AI projects shipped · **2** academic papers (TURABDIN 2025) · **5+** years engineering
 
@@ -116,9 +117,9 @@ Long-form notes on the things I keep running into, published on the portfolio in
 
 | | |
 |---|---|
-| **AI / ML** | Azure OpenAI · Azure AI Search · RAG (hybrid BM25 + vector, re-ranking) · multi-agent orchestration · Text-to-SQL · evaluation harnesses, golden sets, LLM-as-judge |
+| **AI / ML** | Azure OpenAI · Azure AI Search · RAG (hybrid BM25 + vector, re-ranking) · multi-agent orchestration · evaluation harnesses, golden sets, LLM-as-judge |
 | **Backend** | Python (FastAPI) · .NET / ASP.NET Core · Node.js & TypeScript · REST & async job APIs · PHP (Laravel, Symfony) |
-| **Data** | PostgreSQL · MSSQL · Oracle · MongoDB · Redis · `sqlglot` AST validation · row-level security |
+| **Data** | PostgreSQL · MSSQL · Oracle · MongoDB · Redis · row-level security, enforced in the data layer |
 | **Platform** | Azure Functions & serverless · Bicep / IaC · managed identity · Docker · CI/CD · OpenTelemetry |
 | **Also** | application security, penetration testing and secure coding — the habits I bring to AI systems |
 
